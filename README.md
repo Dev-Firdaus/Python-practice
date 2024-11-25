@@ -1,2 +1,2 @@
-#pytho practice
-This python repo for ANP py course
+# pytho practice
+This python repo for ANP py course(lab)

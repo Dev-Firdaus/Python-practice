@@ -1,2 +1,2 @@
 # pytho practice
-This python repo for ANP py course(lab)
+I create this repo for practice all assign lab or question by @anoodip_foundation

@@ -1,4 +1,4 @@
-#Q4- Program for toy vendor discounts...
+#Q Program for toy vendor discounts...
 product_code = int(input("Enter product code (1 for Battery-based, 2 for Key-based, 3 for Electrical Charging-based): "))
 order_amount = float(input("Enter the order amount: "))
 
@@ -20,6 +20,6 @@ elif product_code == 3:  # Electrical Charging-based toys
 else:
     print("Invalid product code")
     discount = 0
-
+#output
 net_amount = order_amount - discount
 print("The net amount to be paid after discount is Rs.", net_amount)

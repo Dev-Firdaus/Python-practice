@@ -53,6 +53,7 @@ Minimum 8 characters
 Contains at least one digit
 Contains at least one uppercase letter
 Contains at least one lowercase letter
+
 '''
 def is_valid_password(password):
     if len(password) < 8:

@@ -17,7 +17,7 @@ print("Capitalized string:", result)
 
 
 '''
-Output of the code
+#Output of the code
 Enter a string: i am md firdaus molla
 Capitalized string: I Am Md Firdaus Molla
 '''

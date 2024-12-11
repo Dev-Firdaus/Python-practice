@@ -15,6 +15,7 @@ result = capitalize_words(user_input)
 # Output
 print("Capitalized string:", result)
 
+
 '''
 Output of the code
 Enter a string: i am md firdaus molla
